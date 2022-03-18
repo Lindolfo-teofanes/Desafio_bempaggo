@@ -23,32 +23,32 @@ function Details() {
             <Select name="month" id="">
                 <option value="">MM</option>
                 <option value="janeiro">JAN</option>
-                <option value="janeiro">FEV</option>
-                <option value="janeiro">MAR</option>
-                <option value="janeiro">ABR</option>
-                <option value="janeiro">MAI</option>
-                <option value="janeiro">JUN</option>
-                <option value="janeiro">JUL</option>
-                <option value="janeiro">AGO</option>
-                <option value="janeiro">SET</option>
-                <option value="janeiro">OUT</option>
-                <option value="janeiro">NOV</option>
-                <option value="janeiro">DEZ</option>
+                <option value="fevereiro">FEV</option>
+                <option value="marco">MAR</option>
+                <option value="abril">ABR</option>
+                <option value="maio">MAI</option>
+                <option value="junho">JUN</option>
+                <option value="julho">JUL</option>
+                <option value="agosto">AGO</option>
+                <option value="setembro">SET</option>
+                <option value="outubro">OUT</option>
+                <option value="novembro">NOV</option>
+                <option value="dezembro">DEZ</option>
             </Select>
             <Select name="month" id="">
                 <option value="">YYYY</option>
-                <option value="janeiro">22</option>
-                <option value="janeiro">23</option>
-                <option value="janeiro">24</option>
-                <option value="janeiro">25</option>
-                <option value="janeiro">26</option>
-                <option value="janeiro">27</option>
-                <option value="janeiro">28</option>
-                <option value="janeiro">29</option>
-                <option value="janeiro">30</option>
-                <option value="janeiro">31</option>
-                <option value="janeiro">32</option>
-                <option value="janeiro">33</option>
+                <option value={2022}>22</option>
+                <option value={2023}>23</option>
+                <option value={2024}>24</option>
+                <option value={2025}>25</option>
+                <option value={2026}>26</option>
+                <option value={2027}>27</option>
+                <option value={2028}>28</option>
+                <option value={2029}>29</option>
+                <option value={2030}>30</option>
+                <option value={2031}>31</option>
+                <option value={2032}>32</option>
+                <option value={2033}>33</option>
             </Select>
             
 

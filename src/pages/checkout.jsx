@@ -56,8 +56,7 @@ const Information = styled.div`
             font-family: 'Poppins', sans-serif;
         } 
         @media(max-width: 600px){
-            width: 85%;
-            
+            width: 85%;            
         }
      
     } 
@@ -74,8 +73,7 @@ const Information = styled.div`
         font-family: 'Poppins', sans-serif;
     }
     @media(max-width: 600px){
-        width: 70vw;
-        
+        width: 70vw;        
     }
 `;
 
